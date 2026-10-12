@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Xiombarg">
+  <rect width="32" height="32" fill="#000"/>
+  <g
+    fill="#f2f2f2"
+    transform="translate(2.2 2.2) scale(0.08974) translate(-34.5485 -92.8103)"
+  >
+    <path
+      d="M 0,0 V 123.731 H -106.193 V 0 h -16.744 V 123.731 H -230.658 V 0 h 74.538 v -15.275 h -74.538 v -91.652 h 107.721 v 91.652 h 16.744 v -91.652 H 0 v 91.652 H -73.011 V 0 Z"
+      transform="matrix(1.3333333,0,0,-1.3333333,342.09253,257.78493)"
+    />
+  </g>
+</svg>
